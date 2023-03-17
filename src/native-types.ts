@@ -128,6 +128,7 @@ export enum HKQuantityTypeIdentifier {
 
   appleSleepingWristTemperature = 'HKQuantityTypeIdentifierAppleSleepingWristTemperature', // Temperature, Discrete
   runningGroundContactTime = 'HKQuantityTypeIdentifierRunningGroundContactTime',
+  runningPower = 'HKQuantityTypeIdentifierRunningPower',
 }
 
 export type TypeToUnitMapping = {
